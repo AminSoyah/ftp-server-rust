@@ -2,10 +2,8 @@
 
 ## Binôme
 
-Amin SOYAH amin.soyah.etu@univ-lille.fr
-Lucas SAUVAGE lucas.sauvage.etu@univ-lille.fr
-
-- [Vidéo de présentation](./presentation.mp4)
+Amin SOYAH
+Lucas SAUVAGE 
 
 ## L'exécution 
 
