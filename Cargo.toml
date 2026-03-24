@@ -1,0 +1,21 @@
+[package]
+name = "ftp-server"
+version = "0.1.0"
+edition = "2024" 
+
+[lib]  
+name = "ftp_server"
+path = "src/main.rs"
+
+[dependencies]
+env_logger = "0.11.8"
+log = "0.4.29"
+mockall = "0.14.0"
+rayon = "1.11.0"
+thiserror = "2.0.18"
+clap = { version = "4.0", features = ["derive"] }
+chrono = "0.4.43"
+tar = "0.4"
+
+[dev-dependencies] 
+tempfile = "3.8"
